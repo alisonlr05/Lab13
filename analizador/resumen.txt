@@ -1,0 +1,6 @@
+Análisis de archivo: texto.txt
+Fecha: 4/6/2026, 3:08:56 p. m.
+──────────────────────────────────────
+Líneas:     10
+Palabras:   70
+Caracteres: 450

@@ -1,0 +1,10 @@
+Hola a todos.
+Esto es un ejemplo de texto para un análisis.
+
+Laboratorio número 13
+Construir un script analizar.js que reciba parámetros mediante parseArgs, lea un archivo de texto 
+y reporte en consola el número de líneas, palabras y caracteres, utilizando salida coloreada con 
+styleText. Si se proporciona el parámetro --output, el script debe escribir un resumen del 
+análisis en un archivo nuevo.
+
+Y aquí finaliza el archivo de ejemplo.
